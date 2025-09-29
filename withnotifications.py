@@ -2185,7 +2185,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
 def main():
     init_db()
 
-    application = Application.builder().token("8226676788:AAHHsB9-CAJW-QrTHIE46Oc6hKxYOjaIGTs").build()
+    application = Application.builder().token("8226676788:AAEddKIZuMR1b5Mv4dD_JrGCf0a6oWAw2ic").build()
 
 
     # 📅 Ежедневное уведомление в 11:30
